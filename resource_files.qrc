@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/close.png</file>
+        <file>images/icone.png</file>
+        <file>images/open.png</file>
+        <file>images/capa.png</file>
+    </qresource>
+</RCC>
